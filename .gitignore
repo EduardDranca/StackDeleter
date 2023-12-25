@@ -1,0 +1,9 @@
+# Ignore system and IDE-specific files
+__pycache__/
+.idea/
+.vscode/
+__pypackages__/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
